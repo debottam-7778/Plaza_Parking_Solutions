@@ -1,2 +1,3 @@
 # Plaza_Parking_Solutions
 A smart parking system that can enable booking parking slots and also detect cars and update the slots.
+Android App: The android app can only be run on Android studio. The file can be open through android studio. The required libraries is to be downloaded before running the file. Once there is no error after building the gradle, we can run the Android SDK to run it in an desktop emulator. Else we can enable the 'USB debugging' on an android mobile from 'Developer's Option'. Then we can upload run the app directly on the mobile by selecting the Android device from the 'Android SDK'.
